@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Calibr3-IO&repo=Data-Analysis)](https://github.com/Calibr3-IO/Data-Analysis)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Calibr3-IO&repo=SAP-Automation)](https://github.com/Calibr3-IO/SAP-Automation)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)](https://github.com/Calibr3-IO/Data-Analysis)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)](https://github.com/Calibr3-IO/SAP-Automation)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)]
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)](https://github.com/Calibr3-IO/SAP-Automation)
   
