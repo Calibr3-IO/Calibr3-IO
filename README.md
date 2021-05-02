@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Calibr3-IO&repo=SAP-Automation)](https://github.com/Calibr3-IO/SAP-Automation)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)
-![Top Langs](https://skyline.github.com/calibr3-io/2020)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calibr3-IO)](https://github.com/Calibr3-IO/SAP-Automation)
 -->
